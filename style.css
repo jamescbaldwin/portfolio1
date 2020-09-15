@@ -1,0 +1,49 @@
+* {
+    background-image: -moz-repeating-linear-gradient();
+}
+
+header {
+    background-color: white;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 75px;
+    display: flex;
+    align-items: center;
+}
+
+body {
+    background-color: tomato;
+    background-size: cover;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 10%;
+    padding: 50px;
+    margin-top: 15%;
+
+}
+
+header * {
+    display: inline;
+    margin-right: 10px;
+}
+
+header # {
+    margin: 30px;
+    
+}
+
+header a {
+    color: grey;
+    text-decoration: none;
+}
+a {
+    float: right;
+   margin-left: 0;
+}
+section {
+    background-color: honeydew;
+    padding: 18px;
+    
+  
+}
