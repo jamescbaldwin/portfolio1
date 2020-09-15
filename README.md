@@ -1,1 +1,2 @@
 # secondhomework
+Repository "secondhomework" is the initial portfolio for James Baldwin, and will utilize Bootstrap code as a means to create a navigatable webpage with funcioning links that pertain to his portfolio. 
