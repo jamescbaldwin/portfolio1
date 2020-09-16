@@ -1,6 +1,8 @@
-* {
-    background-image: -moz-repeating-linear-gradient();
-}
+body {
+        background-image: url("greybackground.jpg");
+        
+       }
+
 
 header {
     background-color: white;
